@@ -1,0 +1,10 @@
+{
+  "name": "coffee",
+  "version": "1.0.0",
+  "main": "src/x.coffee",
+  "author": "Jdevdisc <69683068+JDevelo@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "coffeescript": "^2.5.1"
+  }
+}
